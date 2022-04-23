@@ -1,6 +1,6 @@
-## Sentiment and Emotional Analysis of Indian Union Budget 2022-23 on Social Media
+## :smile:Sentiment and Emotional Analysis of Indian Union Budget 2022-23 on Social Media:disappointed: 
 
-## README
+## README :clipboard:
 
 * FILES USED IN PROJECT
   * CSV FILES
