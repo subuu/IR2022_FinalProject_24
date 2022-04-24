@@ -17,5 +17,5 @@
 1. Firstly add all CSV files in your drive so that they can be added into Google Colab.
 2. Now, open IR_Project_Group-24 colab file to run project code.
 3. First cell will add google drive to your colab notebook.
-4. Next we are inmporting header all files.
-5. Run next 
+4. Now keep on running cells from start to bottom
+5. At the end we have displayed the result of our analysis
